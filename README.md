@@ -15,10 +15,9 @@ Dies ist das Frontend für das **Coderr-Projekt**. Es kommuniziert über REST-AP
 
 ## 🛠️ Technologie
 
-- **React** mit **TypeScript**
-- **Axios** für API-Requests
-- **React Router** für Navigation
-- **CSS**/ **SASS** für Styling
+- **JavaScript** 
+- **HTML** 
+- **CSS**
 
 ---
 
